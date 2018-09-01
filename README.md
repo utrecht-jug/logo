@@ -1,17 +1,7 @@
 # logo
 
-> A repo containing the version history of our meetup's logo.
+> A repo containing our logo, its history and partners' logos.
 
-
-# Contributions
-- Feel free to introduce any logo candidate under ```/drafts```.
-- For the above case, it is suggested that you commit both ```png``` and ```psd``` on a folder of yours, in a structure like below:
-
-```
-.
-├── logo
-│   ├── drafts
-│   │   ├── john
-│   │   │   ├── new_logo.png
-│   │   │   ├── new_logo.psd
-```
+<p align="center">
+  <img  src="utrechtjug/versions/january2018/UtrechtJUG_logo.png" alt="Utrecht Java User Group" />
+</p>
